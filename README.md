@@ -15,7 +15,7 @@ To write a yacc program to recognize a valid arithmetic expression that uses ope
 ```
 NAME:VIKAASH P
 REGISTER NO:212223240180
-Program name:ex3.l
+Program name:ex3
 %{
 /* This LEX program returns the tokens for the expression */
 #include "y.tab.h"
